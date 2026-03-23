@@ -1,44 +1,34 @@
-# 👋 Hi, I'm Sampath Kumar
 
-🚀 Backend Developer | FastAPI | Python | Scalable Systems Enthusiast
+<!-- Animated Typing Header -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sampath+Kumar;Backend+Developer+🚀;FastAPI+%7C+Python+%7C+Kafka;Building+Scalable+Systems;AI+%2B+Backend+Enthusiast" />
+</p>
+
+<h3 align="center">🚀 Backend Developer | FastAPI | Scalable Systems</h3>
+
+<p align="center">
+  <a href="mailto:bandarusampathkumar16@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/sampath-kumar-bandaru-280297310/">💼 LinkedIn</a> •
+  <a href="https://bsampathkumar-portfolio.vercel.app/">🌐 Portfolio</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 💻 Backend Developer with strong experience in **Python & FastAPI**
-* ⚙️ Building **real-world systems** with OCR, Kafka, and AI integrations
-* 📊 Focused on **performance, scalability, and clean architecture**
-* 🔥 Passionate about solving complex backend problems
+* 💻 Backend Developer specializing in **Python & FastAPI**
+* ⚙️ Building **real-world scalable systems** with OCR, Kafka & AI
+* 📊 Strong focus on **performance, system design & clean architecture**
+* 🔥 Passionate about solving **complex backend challenges**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Backend
-
-* Python, FastAPI
-* REST APIs, Async Programming
-
-### 🗄️ Databases
-
-* PostgreSQL
-* MongoDB
-
-### ⚡ Messaging & Streaming
-
-* Kafka
-
-### 🧠 AI / ML Integration
-
-* PaddleOCR
-* Ollama (Mistral / LLaMA)
-
-### 🐳 DevOps & Tools
-
-* Docker
-* Git & GitHub
-* Linux
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,kafka,docker,linux,git" />
+</p>
 
 ---
 
@@ -46,51 +36,78 @@
 
 ### 📌 OMR Evaluation System
 
-* Template-based OMR detection using predefined bubble coordinates
-* Accurate and layout-independent answer evaluation
-* Built using OpenCV + FastAPI
+> Template-based OMR detection using predefined bubble coordinates
+
+* 🎯 Layout-independent answer evaluation
+* ⚡ High accuracy using OpenCV
+* 🔧 Built with FastAPI backend
 
 ---
 
 ### 📌 OCR Document Analyzer
 
-* Extracts structured data from PDFs and images
-* Uses PaddleOCR + LLM for intelligent parsing
-* Supports invoices and multi-format documents
+> Intelligent document processing system
+
+* 📄 Extracts structured data from PDFs & images
+* 🧠 Powered by PaddleOCR + LLM (Ollama)
+* 🔍 Supports invoices & multi-format inputs
 
 ---
 
-### 📌 Kafka-based AI Processing Pipeline
+### 📌 Kafka-based AI Pipeline
 
-* Consumes questions from Kafka topics
-* Processes data using LLM (Ollama)
-* Sends processed output via API
+> Real-time AI processing system
+
+* ⚡ Consumes data from Kafka topics
+* 🤖 Processes using LLM (Mistral / LLaMA)
+* 🔗 Sends processed output via API
 
 ---
 
 ### 📌 YouTube Live Streaming Backend
 
-* Create & manage live streams via API
-* Multi-account support using tokens
-* Dynamic thumbnail generation
+> Automated live stream management system
+
+* 🎥 Create & manage live streams via API
+* 🔄 Multi-account support
+* 🖼️ Dynamic thumbnail generation
 
 ---
 
-## 🔥 What Makes Me Different
+## 🔥 What Sets Me Apart
 
-* ✅ Real-world backend systems (not just CRUD apps)
-* ✅ AI + Backend integration experience
-* ✅ Strong understanding of system design basics
-* ✅ Hands-on with scalable architectures
+* ✅ Built **production-like backend systems**
+* ✅ Experience with **AI + Backend integration**
+* ✅ Strong foundation in **scalable architecture**
+* ✅ Focus on **clean, maintainable code**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BSampathKumar2004&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BSampathKumar2004&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BSampathKumar2004&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-* 📧 Email: [bandarusampathkumar16@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sampath-kumar-bandaru-280297310/)
-* 🌐 Portfolio: [(Add later if you build one)](https://bsampathkumar-portfolio.vercel.app/)
+* 📧 Email: **[bandarusampathkumar16@gmail.com](mailto:bandarusampathkumar16@gmail.com)**
+* 💼 LinkedIn: https://www.linkedin.com/in/sampath-kumar-bandaru-280297310/
+* 🌐 Portfolio: https://bsampathkumar-portfolio.vercel.app/
 
 ---
 
-⭐️ From [Sampath Kumar](https://github.com/BSampathKumar2004)
+<p align="center">⭐️ From Sampath Kumar</p>
+
