@@ -1,8 +1,7 @@
-
-<!-- Animated Typing Header -->
+<!-- Animated Typing Header (Premium Color) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sampath+Kumar;Backend+Developer+🚀;FastAPI+%7C+Python+%7C+Kafka;Building+Scalable+Systems;AI+%2B+Backend+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sampath+Kumar;Backend+Developer+🚀;FastAPI+%7C+Python;Building+Scalable+Systems;AI+%2B+Backend+Enthusiast" />
 </p>
 
 <h3 align="center">🚀 Backend Developer | FastAPI | Scalable Systems</h3>
@@ -18,7 +17,7 @@
 ## 🧠 About Me
 
 * 💻 Backend Developer specializing in **Python & FastAPI**
-* ⚙️ Building **real-world scalable systems** with OCR, Kafka & AI
+* ⚙️ Building **real-world scalable systems** with OCR & AI integrations
 * 📊 Strong focus on **performance, system design & clean architecture**
 * 🔥 Passionate about solving **complex backend challenges**
 
@@ -27,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,kafka,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,docker,linux,git" />
 </p>
 
 ---
@@ -54,13 +53,15 @@
 
 ---
 
-### 📌 Kafka-based AI Pipeline
+### 📌 AI-Powered Interview System
 
-> Real-time AI processing system
+> Smart interview preparation & evaluation platform
 
-* ⚡ Consumes data from Kafka topics
-* 🤖 Processes using LLM (Mistral / LLaMA)
-* 🔗 Sends processed output via API
+* 🧑‍💻 Collects candidate data from frontend
+* 📅 Schedules interviews dynamically
+* 🧠 Generates interview questions using LLM
+* ✍️ Evaluates user answers using AI (LLM-based correction)
+* 📊 Provides intelligent feedback & improvement insights
 
 ---
 
@@ -110,4 +111,3 @@
 ---
 
 <p align="center">⭐️ From Sampath Kumar</p>
-
