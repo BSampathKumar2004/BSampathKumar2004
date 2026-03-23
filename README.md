@@ -2,7 +2,7 @@
 <!-- Animated Typing Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sampath+Kumar;Backend+Developer+🚀;FastAPI+%7C+Python+%7C+Kafka;Building+Scalable+Systems;AI+%2B+Backend+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sampath+Kumar;Backend+Developer+🚀;FastAPI+%7C+Python+%7C+Kafka;Building+Scalable+Systems;AI+%2B+Backend+Enthusiast" />
 </p>
 
 <h3 align="center">🚀 Backend Developer | FastAPI | Scalable Systems</h3>
