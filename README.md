@@ -76,12 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sampath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
----
-
 ## 🔥 What Makes Me Different
 
 * ✅ Real-world backend systems (not just CRUD apps)
